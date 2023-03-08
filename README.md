@@ -15,4 +15,4 @@ Debian: https://www.debian.org/
 
 ###UFW config: https://www.transip.eu/knowledgebase/entry/1923-uncomplicated-firewall-ufw-in-debian/
 
-###
+###Cron stop script: https://www.airplane.dev/blog/how-to-start-stop-and-restart-cron-jobs
